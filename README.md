@@ -26,9 +26,14 @@ It balances **minimum cost** and **maximum fun**, and it’s tailored for real t
   - `Itinerary.md` — human-readable trip plan.  
   - `trip_plan.json` — full data trail: inputs, sources, coordinates, route order, distances, durations, and costs.
 
-![json](interface/json.png)
+#### User Input
 ![user_input](interface/input.png)
+
+#### User Input (any stops they wanna add)
 ![adding_stops](interface/stops.png)
+
+#### Results in JSON (along with markdown report)
+![json](interface/json.png)
 
 ---
 
