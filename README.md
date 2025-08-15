@@ -1,14 +1,14 @@
-# [RouteForge — AI Research & Planning Agent] 
+# RouteForge — AI Research & Planning Agent
 
 **RouteForge** is an *AI trip-planning* agent that turns free-form requests into **routable plans**.  
 It balances **minimum cost** and **maximum fun**, and it’s tailored for real travel moments when users need **specific stops** on the way (e.g., coffee, restroom, or any explicit request).
 
 ***[🔗routeforge](https://routeforge.streamlit.app/)***
 
-### [RouteForge Interface]
+### RouteForge Interface
 ![Upload Interface](interface/ui.png)
 
-### [Generated Result]
+### Generated Result
 ![Upload Interface](interface/map.png)
 
 ---
