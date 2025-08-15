@@ -72,6 +72,7 @@ python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
+```
 
 ## Contributing
 Contributions are welcome! If you find a bug or want to suggest a feature:
