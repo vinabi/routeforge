@@ -1,0 +1,26 @@
+# --- Core ---
+python-dotenv
+requests
+beautifulsoup4
+pydantic
+tiktoken
+
+# --- LangChain + LLM providers ---
+langchain
+langchain-openai
+langchain-groq
+langchain-community
+
+# --- Search providers ---
+tavily-python
+serpapi
+
+# Core UI
+streamlit>=1.34.0
+
+# Maps + map component
+folium>=0.15.1
+streamlit-folium>=0.20.0
+
+# HTTP client (OSRM, Nominatim, Overpass)
+requests>=2.31.0
