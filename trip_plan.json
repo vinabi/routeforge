@@ -1,0 +1,840 @@
+{
+  "inputs": {
+    "origin": "darulsalam addison illinois",
+    "final_destination": "cumming georgia",
+    "city_for_guides": "cumming georgia",
+    "mode": "driving",
+    "top_k": 10,
+    "radius_m": 4000,
+    "cost_per_km": 5.0,
+    "time_value_per_hr": 5.0,
+    "specific_need_free": "i want to stop by a cafe and a flower shop",
+    "specific_need_parsed": [
+      {
+        "type": "category",
+        "label": "cafe",
+        "count": 1
+      },
+      {
+        "type": "category",
+        "label": "flower shop",
+        "count": 1
+      }
+    ]
+  },
+  "guides": [
+    {
+      "title": "THE 15 BEST Things to Do in Cumming (2025)",
+      "url": "https://www.tripadvisor.com/Attractions-g34877-Activities-Cumming_Georgia.html",
+      "content": "Top Attractions in Cumming ; 1. Sawnee Mountain Preserve · 4.6. (324) ; 2. Fowler Park · 4.8. (97) ; 3. Big Creek Greenway · 4.7. (145) ; 4. Cumming Aquatic Center."
+    },
+    {
+      "title": "Ultimate Local Guide To Cumming GA",
+      "url": "https://www.goldpeachrealty.com/cumming-ga",
+      "content": "As of 2024, the population of Cumming, Georgia, is approximately 7,300 people. The city is part of Forsyth County, which has seen significant growth in recent years.\n\n#### What are the top attractions in Cumming?\n\nTop attractions in Cumming include Sawnee Mountain Preserve, Fowler Park, Big Creek Greenway, Cumming Playhouse, and Cumming Aquatic Center. These destinations offer a mix of outdoor act"
+    },
+    {
+      "title": "THE 10 BEST Things to Do in Forsyth (2025) - Must-See Attractions",
+      "url": "https://www.tripadvisor.com/Attractions-g34951-Activities-Forsyth_Georgia.html",
+      "content": "Top Attractions in Forsyth · 1. Monroe County Historic County Courthouse · 4.6 · 2. Monroe County Museum-Geneology. History Museums · 3. Forsyth United Methodist"
+    },
+    {
+      "title": "Events from August 15 - City of Cumming",
+      "url": "https://www.cityofcumming.net/events/list",
+      "content": "City of Cumming\nCity of Cumming\n\n### How Do I?\n\n### How Do I?\n\n### How Do I?\n\n### How Do I?\n\n### How Do I?\n\n### How Do I?\n\n## Events Search and Views Navigation\n\n### Event Views Navigation\n\n## August 2025\n\n### After School Special in Concert at City Center\n\nCome out to the City Center's Lou Sobh Amphitheater for this great, free concert featuring hits from the '90s!\n\n### Legends of Rock in Concert"
+    },
+    {
+      "title": "Calendar of Events | Explore Georgia",
+      "url": "https://exploregeorgia.org/calendar-of-events",
+      "content": "Type\n African American Events\n Antique, Craft & Hobby\n Arts & Culture\n Book Sales\n Civil War Events\n Culinary, Food, Wine & Beer\n Entertainment\n Fairs & Festivals\n Family Friendly\n Farmers Markets & Agritourism\n Film Festivals & Events\n Fishing & Hunting\n Free Things to Do\n GA250\n Golf\n Haunted\n History & Heritage\n Holidays\n LGBT\n Music & Concerts\n Music Festival\n Native American Events\n Outdoors "
+    },
+    {
+      "title": "THE 10 BEST Restaurants in Cumming Updated August ...",
+      "url": "https://www.tripadvisor.ca/Restaurants-g34877-Cumming_Georgia.html",
+      "content": "Restaurants in Cumming · 1. Tam's Backstage. 4.5. (334 reviews) · 2. Marie's Italian Deli. 4.5. (248 reviews) · 3. Giorgio's Family Kitchen. 4.3. (389 reviews) · 4."
+    },
+    {
+      "title": "THE 10 BEST Restaurants in Forsyth (Updated August 2025)",
+      "url": "https://www.tripadvisor.com/Restaurants-g34951-Forsyth_Georgia.html",
+      "content": "Restaurants in Forsyth"
+    },
+    {
+      "title": "THE 10 BEST Restaurants in Cumming (Updated August ...",
+      "url": "https://www.tripadvisor.com/Restaurants-g34877-Cumming_Georgia.html",
+      "content": "1. Tam's Backstage. 4.5. (334 reviews) · 2. Giorgio's Family Kitchen. 4.3. (389 reviews) · 3. Marie's Italian Deli. 4.5. (248 reviews) · 4. Gardenia Mediterranean"
+    },
+    {
+      "title": "The Best Restaurants in Cumming Right Now",
+      "url": "https://www.opentable.com/neighborhood/us/cumming-restaurants",
+      "content": "Top booked · Rumi's Kitchen - Avalon · Cooper's Hawk Winery & Restaurant – Alpharetta, GA · Overstory Rooftop Bar. - The Westin Atlanta Gwinnett · Colletta -"
+    },
+    {
+      "title": "THE BEST 10 RESTAURANTS in FORSYTH COUNTY, GA - Yelp",
+      "url": "https://www.yelp.com/search?cflt=restaurants&find_loc=Forsyth+County%2C+GA",
+      "content": "Top 10 Best Restaurants Near Forsyth County, Georgia - With Real Reviews (Updated Aug 2025) · 1. Meadow Woodfire Grill · 2. Homestead · 3. Los Compadres Restaurant."
+    },
+    {
+      "title": "Pros and Cons of Living in Cumming, Georgia - Tim Trevathan Homes",
+      "url": "https://timtrevathanhomes.com/real-estate-blog/pros-and-cons-of-living-in-cumming-georgia/",
+      "content": "The fairgrounds don’t sit idle the rest of the year either. Each spring, there is a great event called The Taste, where restaurants from Cumming and all over Forsyth County give visitors a taste of their food. The best part? Its free! What a great way to check out your local restaurants and enjoy a taste of your favorites while scoping out some new places to try. I don’t know of any other city in "
+    },
+    {
+      "title": "Forsyth County Georgia",
+      "url": "https://www.forsythco.com/",
+      "content": "During a July 17 meeting, the Forsyth County Board of Commissioners proclaimed the month of July 2025 as Parks & Recreation Month to recognize the County’s Department of Parks & Recreation for its commitment to providing the community with safe, clean and inclusive parks and recreation opportunities.\n\nread more\n\nImage 36.jpg)\n\nJul 11, 2025\n#### Forsyth County Announces 2025 Property Tax Rates and "
+    },
+    {
+      "title": "Forsyth County, Georgia - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Forsyth_County,_Georgia",
+      "content": "Forsyth County Parks and Recreation Department maintains 25 parks and facilities in the county. Most notable are Sawnee Mountain Preserve, Central Park, Fowler Park, Poole's Mill Covered Bridge and the Big Creek Greenway. The Cumming Fairgrounds host many events throughout the year including a rodeo, The Cumming Country Fair, and a farmers' market. There is also the annual July 4 Steam Engine Para"
+    },
+    {
+      "title": "Forsyth County News - Forsyth News",
+      "url": "https://www.forsythnews.com/",
+      "content": "See what East Forsyth’s Cadence Alberty had to say about earning the second Forsyth County News superlative honor of her career.\n\n  June 30, 2025\n 5 places to see fireworks in Northeast Georgia for Fourth of July 2025\n\n  From patriotic parades to dazzling fireworks, North Georgia offers a variety of ways to celebrate Independence Day this year.\n\n  June 28, 2025\n\n### Homepage\n\n Subscribe\n\n  For mor"
+    },
+    {
+      "title": "Cumming - New Georgia Encyclopedia",
+      "url": "https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/cumming/",
+      "content": "Photograph by Nancy Horton\n\nCumming has several visitor attractions. Each October the town holds the Cumming Country Fair and Festival, which draws patrons from Atlanta and north Georgia. Music fans can enjoy the concerts at Lanierland Park (formerly Lanierland Music Park). Sawnee Mountain Preserve opened its gates to nature enthusiasts in 2005 and provides several miles of hiking trails, picnic a"
+    },
+    {
+      "title": "Exploring Cumming, GA: Your Guide to North Georgia's Hidden Gem",
+      "url": "https://www.mikesinfusions.com/exploring-cumming-ga-your-guide-to-north-georgias-hidden-gem",
+      "content": "Medical Director: Dr. Eric Lehman, DO  \nCopyright © 2025 by Southern Oasis IV, LLC – All rights reserved. | Terms and Conditions [...] logo\n\n# Exploring Cumming, GA: Your Guide to North Georgia’s Hidden Gem\n\nWelcome to Cumming, Georgia, where small-town charm meets modern amenities against the backdrop of stunning natural landscapes. Whether you’re seeking outdoor adventures, family fun, or cultur"
+    },
+    {
+      "title": "Things to Do in Forsyth County - Discover FoCo",
+      "url": "https://discoverfoco.com/things-to-do/",
+      "content": "image of food from places to eat in forsyth county\n\n### Foodie Favorites in FOCO For Every Taste\n\nimage of Cumming City Center\n\n### Cumming City Center: Forsyth County’s New Community Gem\n\nIn Forsyth County, the state of Georgia’s top rated parks system offers incredible amenities to enjoy. We invite you to come and play in one of the award-winning facilities.\n\n##### Quick Links\n\n##### Social Medi"
+    },
+    {
+      "title": "TOP 10 BEST Secret Spots near Cumming, GA - Updated 2025 - Yelp",
+      "url": "https://m.yelp.com/search?find_desc=Secret+Spots&find_loc=Cumming%2C+GA",
+      "content": "Best Secret Spots near Cumming, GA"
+    },
+    {
+      "title": "Discover Forsyth County, GA | Cumming, Sawnee Mountain & Lake ...",
+      "url": "https://discoverfoco.com/",
+      "content": "In Forsyth County, the state of Georgia’s top rated parks system offers incredible amenities to enjoy. We invite you to come and play in one of the award-winning facilities.\n\n##### Quick Links\n\n##### Social Media\n\n© 2024 Discover FoCo. [...] Tonight, stop by @cummingcigars from 7p-10p for live music by the Georgia Back Porch Band, drinks, and Black Market BBQ !\nBack to school is right around the c"
+    },
+    {
+      "title": "THE 15 BEST Things to Do in Cumming (2025) - Must-See Attractions",
+      "url": "https://www.tripadvisor.com/Attractions-g34877-Activities-Cumming_Georgia.html",
+      "content": "Georgia Aquarium · (23,949). 34 mi away · Aquariums ; Atlanta Botanical Garden · (5,259). 32 mi away · Gardens ; World of Coca-Cola · (14,834). 34 mi away · Speciality"
+    },
+    {
+      "title": "TOP 10 BEST Specialty Food in Cumming, GA",
+      "url": "https://m.yelp.com/search?find_desc=Specialty+Food&find_loc=Cummings%2C+GA",
+      "content": "Top 10 Best Specialty Food Near Cumming, Georgia · 1. International Gourmet Foods · 2. Il Bottegone · 3. Baltic Deli · 4. Mountain Fresh Creamery · 5. Gabby's Olive"
+    },
+    {
+      "title": "The Ultimate Cumming, GA Dining Guide",
+      "url": "https://www.atlantaeats.com/blog/the-ultimate-cumming-ga-dining-guide/",
+      "content": "including traditional pizzas, tacos, burritos and wings. [...] and onion topped with melted chihuahua cheese. They serve it with tortillas and garnish it​ with a cheese quesadilla and a chile toreado. [...] A relative newcomer to the scene, Mary Lucille’s is a bakery focused on Southern favorites and a tea focused experience. For special occasions, you can rent out their exclusive tearoom where yo"
+    },
+    {
+      "title": "THE 10 BEST Restaurants in Forsyth (Updated August 2025)",
+      "url": "https://www.tripadvisor.com/Restaurants-g34951-Forsyth_Georgia.html",
+      "content": "1. Grits Cafe. 4.6. (492 reviews) · 2. Fox City Brewing Co. 4.4. (36 reviews) · 3. Her Majesty Kitchen. 4.2. (13 reviews) · 4. El Tejado Mexican Restaurant. 4.4. ("
+    },
+    {
+      "title": "Where To Eat in Forsyth County, GA | Restaurants ...",
+      "url": "https://discoverfoco.com/where-to-eat/",
+      "content": "Cumming City Center\n\ndeli\n\ndelivery\n\ndessert\n\ndinner\n\ndiscover foco\n\ndiscoverfoco\n\ndock\n\ndumplings\n\ne-foil\n\nEvent\n\nevent venues\n\nexplore georgia\n\nfamily\n\nfarm\n\nfast food\n\nfish\n\nfishing\n\nfive boroughs\n\nforsyth conference center\n\nforsyth county\n\nfried chicken\n\nfrozen drinks\n\nfrozen yogurt\n\ngeorgia\n\ngeorgia winery\n\nglamping\n\ngluten free\n\nhalcyon\n\nhalcyon forsyth\n\nhiking\n\nice cream\n\nitalian\n\nKayak\n\nKo"
+    },
+    {
+      "title": "THE 10 BEST Restaurants in Cumming ( ... - Tripadvisor",
+      "url": "https://www.tripadvisor.com/Restaurants-g34877-Cumming_Georgia.html",
+      "content": "1. Tam's Backstage · (334 reviews). American ; 2. Giorgio's Family Kitchen · (389 reviews). Pizza, Italian ; 3. Marie's Italian Deli · (248 reviews). Italian, Pizza"
+    }
+  ],
+  "places": [
+    {
+      "name": "Myth & Legend",
+      "lat": 34.216834899999995,
+      "lon": -84.14582639999999,
+      "category": "specific",
+      "address": "431 Vision Dr Suite F101A, Cumming, GA 30040",
+      "types": "Coffee shop",
+      "source": "serpapi_google_maps",
+      "url": "http://www.mythandlegend.coffee/"
+    },
+    {
+      "name": "Community Cup",
+      "lat": 34.2088622,
+      "lon": -84.1397037,
+      "category": "specific",
+      "address": "125 Tribble Gap Rd suite 103, Cumming, GA 30040",
+      "types": "Coffee shop",
+      "source": "serpapi_google_maps",
+      "url": "http://www.communitycupga.com/"
+    },
+    {
+      "name": "Ellianos Coffee",
+      "lat": 34.2052611,
+      "lon": -84.11952889999999,
+      "category": "specific",
+      "address": "1200 Town Grn Cir, Cumming, GA 30041",
+      "types": "Coffee shop",
+      "source": "serpapi_google_maps",
+      "url": "https://www.ellianos.com/locations/cumming-ga/"
+    },
+    {
+      "name": "Rooster's Cafe",
+      "lat": 34.2040313,
+      "lon": -84.1365556,
+      "category": "specific",
+      "address": "216 Atlanta Rd, Cumming, GA 30040",
+      "types": "Bar & grill",
+      "source": "serpapi_google_maps",
+      "url": "http://www.roosterscafe.net/"
+    },
+    {
+      "name": "Gasthaus Tirol",
+      "lat": 34.2012423,
+      "lon": -84.1340438,
+      "category": "specific",
+      "address": "310 Atlanta Rd, Cumming, GA 30040",
+      "types": "German restaurant",
+      "source": "serpapi_google_maps",
+      "url": "http://www.gasthaus-cumming.com/"
+    },
+    {
+      "name": "Donut Stop",
+      "lat": 34.2146195,
+      "lon": -84.1384429,
+      "category": "specific",
+      "address": "230 Elm St #700, Cumming, GA 30040",
+      "types": "Donut shop",
+      "source": "serpapi_google_maps",
+      "url": ""
+    },
+    {
+      "name": "Rendezvous Cafe",
+      "lat": 34.1854072,
+      "lon": -84.1441899,
+      "category": "specific",
+      "address": "543 Lakeland Plaza, Cumming, GA 30040",
+      "types": "Coffee shop",
+      "source": "serpapi_google_maps",
+      "url": ""
+    },
+    {
+      "name": "ReFresh- Handcrafted Superfood Cafe",
+      "lat": 34.1810773,
+      "lon": -84.1290631,
+      "category": "specific",
+      "address": "1050 Market Pl Blvd, Cumming, GA 30041",
+      "types": "Health food restaurant",
+      "source": "serpapi_google_maps",
+      "url": "http://www.chooserefresh.com/"
+    },
+    {
+      "name": "Good ol' Days Bar and Grill",
+      "lat": 34.198713999999995,
+      "lon": -84.1350676,
+      "category": "specific",
+      "address": "419 Atlanta Rd, Cumming, GA 30040",
+      "types": "Bar & grill",
+      "source": "serpapi_google_maps",
+      "url": "http://goodoldaysbarandgrill.com/"
+    },
+    {
+      "name": "Dunkin'",
+      "lat": 34.2085402,
+      "lon": -84.1435219,
+      "category": "specific",
+      "address": "116 Canton Rd, Cumming, GA 30040",
+      "types": "Coffee shop",
+      "source": "serpapi_google_maps",
+      "url": "https://locations.dunkindonuts.com/en/ga/cumming/116-canton-rd/359140?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=359140&y_source=1_MTMyNzM0NTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+    },
+    {
+      "name": "The Human Bean",
+      "lat": 34.1647203,
+      "lon": -84.11893119999999,
+      "category": "specific",
+      "address": "1609 Buford Hwy, Cumming, GA 30041",
+      "types": "Coffee shop",
+      "source": "serpapi_google_maps",
+      "url": "https://thehumanbean.com/location/the-human-bean-1605-buford-hwy-cumming-ga/"
+    },
+    {
+      "name": "Bean in the Borough",
+      "lat": 34.1664751,
+      "lon": -84.1793672,
+      "category": "specific",
+      "address": "6020 Pkwy N Dr Suite 300, Cumming, GA 30040",
+      "types": "Mobile caterer",
+      "source": "serpapi_google_maps",
+      "url": "http://www.beanintheborough.com/"
+    },
+    {
+      "name": "Bonnie's Florist and Greenhouse",
+      "lat": 34.208861999999996,
+      "lon": -84.1368202,
+      "category": "specific",
+      "address": "212 Ingram Ave, Cumming, GA 30040",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "http://www.bonniesfloristandgreenhouse.com/"
+    },
+    {
+      "name": "Heard's Florist",
+      "lat": 34.207294399999995,
+      "lon": -84.1370374,
+      "category": "specific",
+      "address": "110 Pirkle Ferry Rd, Cumming, GA 30040",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "http://www.heardflorist.com/"
+    },
+    {
+      "name": "Edible Arrangements",
+      "lat": 34.1944878,
+      "lon": -84.1275563,
+      "category": "specific",
+      "address": "2315 Market Pl Blvd, Cumming, GA 30041",
+      "types": "Gift shop",
+      "source": "serpapi_google_maps",
+      "url": "https://www.ediblearrangements.com/stores/2315-market-pl-blvd-cumming-ga-30041"
+    },
+    {
+      "name": "Flower Jazz inc",
+      "lat": 34.1724574,
+      "lon": -84.1269499,
+      "category": "specific",
+      "address": "1240 Buford Hwy #120, Cumming, GA 30041",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "http://www.flowerjazz.net/"
+    },
+    {
+      "name": "Q Florist",
+      "lat": 40.7833624,
+      "lon": -73.97416079999999,
+      "category": "specific",
+      "address": "447 Columbus Ave, New York, NY 10024",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "https://www.qflorist.com/"
+    },
+    {
+      "name": "Funky Mountain Flowers & Gifts",
+      "lat": 34.1500701,
+      "lon": -84.1727908,
+      "category": "specific",
+      "address": "515 Peachtree Pkwy #605, Cumming, GA 30041",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "https://funkymountainflowers.com/"
+    },
+    {
+      "name": "Coal Mountain Flowers",
+      "lat": 34.2629308,
+      "lon": -84.10535089999999,
+      "category": "specific",
+      "address": "2855 Dahlonega Hwy, Cumming, GA 30040",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "https://www.coalmountainflowers.com/?utm_source=google&utm_medium=gbp&y_source=1_MjA4OTM1NzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+    },
+    {
+      "name": "Lakshmi Florist",
+      "lat": 34.1654285,
+      "lon": -84.178163,
+      "category": "specific",
+      "address": "5912 Bethelview Rd Suite D, Cumming, GA 30040",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "http://lakshmiflorists.com/"
+    },
+    {
+      "name": "Jo Ann's Flowers & Gifts",
+      "lat": 34.2383666,
+      "lon": -84.2225976,
+      "category": "specific",
+      "address": "3401 Canton Hwy, Cumming, GA 30040",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "https://www.facebook.com/JoAnns-Flowers-Gifts-154292387922843"
+    },
+    {
+      "name": "The Flower Post",
+      "lat": 34.1826576,
+      "lon": -84.2191735,
+      "category": "specific",
+      "address": "5833 S Vickery St, Cumming, GA 30040",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "http://www.theflowerpost.com/"
+    },
+    {
+      "name": "Suwanee Towne Florist",
+      "lat": 34.0497955,
+      "lon": -84.0719345,
+      "category": "specific",
+      "address": "602 Buford Hwy NE, Suwanee, GA 30024",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "https://www.suwaneetowneflorist.com/"
+    },
+    {
+      "name": "Kara Florist",
+      "lat": 40.7848865,
+      "lon": -73.975161,
+      "category": "specific",
+      "address": "134 W 83rd St, New York, NY 10024",
+      "types": "Florist",
+      "source": "serpapi_google_maps",
+      "url": "http://allussamedayflowerdelivery.pro/locations/manhattan-ny.php"
+    },
+    {
+      "name": "Mary Alice Park Beach",
+      "lat": 34.2006122,
+      "lon": -84.09823829999999,
+      "rating": 4.6,
+      "reviews": 1086,
+      "price_level": null,
+      "address": "1820 Mary Alice Park Rd, Cumming, GA 30041",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "https://parks.forsythco.com/Parks/Mary-Alice-Park"
+    },
+    {
+      "name": "Autrey Mill Nature Preserve & Heritage Center",
+      "lat": 34.020804999999996,
+      "lon": -84.23264999999999,
+      "rating": 4.7,
+      "reviews": 697,
+      "price_level": null,
+      "address": "9770 Autrey Mill Rd, Johns Creek, GA 30022",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "https://www.autreymill.org/"
+    },
+    {
+      "name": "Buford Dam Park",
+      "lat": 34.1523588,
+      "lon": -84.0635676,
+      "rating": 4.5,
+      "reviews": 627,
+      "price_level": null,
+      "address": "1200 Saddle Dike #3, Buford, GA 30518",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": ""
+    },
+    {
+      "name": "Webb Bridge Park",
+      "lat": 34.0672407,
+      "lon": -84.2184233,
+      "rating": 4.7,
+      "reviews": 1485,
+      "price_level": null,
+      "address": "4780 Webb Bridge Rd, Alpharetta, GA 30005",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "http://www.alpharetta.ga.us/government/departments/recreation-parks/facilities/park-facilities-detail/webb-bridge-park"
+    },
+    {
+      "name": "Sims Lake Park Suwanee",
+      "lat": 34.0751214,
+      "lon": -84.0741608,
+      "rating": 4.8,
+      "reviews": 1840,
+      "price_level": null,
+      "address": "4600 Suwanee Dam Rd, Suwanee, GA 30024",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "https://www.suwanee.com/services/parks"
+    },
+    {
+      "name": "Sawnee Mt. Preserve",
+      "lat": 34.255502199999995,
+      "lon": -84.13850359999999,
+      "rating": 4.7,
+      "reviews": 1781,
+      "price_level": null,
+      "address": "4075 Spot Rd, Cumming, GA 30040",
+      "types": "Park",
+      "source": "serpapi_google_maps",
+      "url": "http://parks.forsythco.com/"
+    },
+    {
+      "name": "Central Park, Cumming GA",
+      "lat": 34.2469162,
+      "lon": -84.0972304,
+      "rating": 4.7,
+      "reviews": 947,
+      "price_level": null,
+      "address": "2300 Keith Bridge Rd, Cumming, GA 30040",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "https://parks.forsythco.com/parks/central-park"
+    },
+    {
+      "name": "Gwinnett Environmental and Heritage Center",
+      "lat": 34.0639734,
+      "lon": -84.0045933,
+      "rating": 4.7,
+      "reviews": 988,
+      "price_level": null,
+      "address": "Gwinnett Environmental & Heritage Center, 2020 Clean Water Dr, Buford, GA 30519",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "https://www.gwinnettcounty.com/web/gwinnett/departments/communityservices/parksandrecreation/ourparksandfacilities/guidetoyourparks/gwinnettenvironmentalandheritagecenter"
+    },
+    {
+      "name": "PlayTown Suwanee",
+      "lat": 34.056867499999996,
+      "lon": -84.06906149999999,
+      "rating": 4.7,
+      "reviews": 492,
+      "price_level": null,
+      "address": "425 Main St, Suwanee, GA 30024",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": ""
+    },
+    {
+      "name": "Caney Creek Preserve",
+      "lat": 34.100392299999996,
+      "lon": -84.1862395,
+      "rating": 4.6,
+      "reviews": 511,
+      "price_level": null,
+      "address": "2755 Caney Rd, Alpharetta, GA 30005",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": ""
+    },
+    {
+      "name": "Suwanee Town Center",
+      "lat": 34.0568113,
+      "lon": -84.0646651,
+      "rating": 4.8,
+      "reviews": 3572,
+      "price_level": null,
+      "address": "330 Town Center Ave, Suwanee, GA 30024",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "http://www.suwanee.com/"
+    },
+    {
+      "name": "Haw Creek Park",
+      "lat": 34.161612999999996,
+      "lon": -84.105535,
+      "rating": 4.7,
+      "reviews": 470,
+      "price_level": null,
+      "address": "2205 Echols Rd, Cumming, GA 30041",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "https://parks.forsythco.com/Parks/Haw-Creek-Park"
+    },
+    {
+      "name": "Gary Pirkle Park",
+      "lat": 34.132304399999995,
+      "lon": -84.06583359999999,
+      "rating": 4.7,
+      "reviews": 1090,
+      "price_level": null,
+      "address": "6195 Austin Garner Rd, Sugar Hill, GA 30518",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "https://cityofsugarhill.com/services/parks-recreation/gary-pirkle-park/"
+    },
+    {
+      "name": "Historic Poole's Mill Bridge Park",
+      "lat": 34.2900024,
+      "lon": -84.2420387,
+      "rating": 4.7,
+      "reviews": 876,
+      "price_level": null,
+      "address": "7725 Pooles Mill Rd, Ball Ground, GA 30107",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "https://parks.forsythco.com/Parks/Pooles-Mill-Park"
+    },
+    {
+      "name": "Lower Overlook",
+      "lat": 34.1592501,
+      "lon": -84.0699262,
+      "rating": 4.7,
+      "reviews": 823,
+      "price_level": null,
+      "address": "Buford Dam Rd, Buford, GA 30518",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "http://www.sam.usace.army.mil/Missions/Civil-Works/Recreation/Lake-Sidney-Lanier/"
+    },
+    {
+      "name": "Chattahoochee Pointe Park",
+      "lat": 34.0724915,
+      "lon": -84.11808219999999,
+      "rating": 4.6,
+      "reviews": 567,
+      "price_level": null,
+      "address": "5790 Chattahoochee Pointe Dr, Suwanee, GA 30024",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "https://parks.forsythco.com/Parks/Chattahoochee-Pointe"
+    },
+    {
+      "name": "Fowler Park",
+      "lat": 34.150766499999996,
+      "lon": -84.2103612,
+      "rating": 4.7,
+      "reviews": 1979,
+      "price_level": null,
+      "address": "4110 Carolene Way, Cumming, GA 30040",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "https://parks.forsythco.com/Parks/Fowler-Park"
+    },
+    {
+      "name": "Windermere Park",
+      "lat": 34.130589199999996,
+      "lon": -84.1159663,
+      "rating": 4.5,
+      "reviews": 314,
+      "price_level": null,
+      "address": "3355 Windermere Pkwy, Cumming, GA 30041",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": ""
+    },
+    {
+      "name": "Treetop Quest Gwinnett",
+      "lat": 34.065387799999996,
+      "lon": -84.00416969999999,
+      "rating": 4.8,
+      "reviews": 496,
+      "price_level": null,
+      "address": "2020 Clean Water Dr, Buford, GA 30519",
+      "types": "Tourist attraction",
+      "source": "serpapi_google_maps",
+      "url": "http://www.treetopquest.com/gwinnett"
+    },
+    {
+      "name": "Keystone Escape Rooms",
+      "lat": 34.1881262,
+      "lon": -84.13747699999999,
+      "rating": 4.9,
+      "reviews": 157,
+      "price_level": null,
+      "address": "Next to Auto-Zone, 580 Atlanta Hwy #204b, Cumming, GA 30040",
+      "types": "Escape room center",
+      "source": "serpapi_google_maps",
+      "url": "https://keystoneescaperooms.com/"
+    },
+    {
+      "name": "Santa Maria",
+      "lat": 34.2163073,
+      "lon": -84.14764459999999,
+      "rating": 4.8,
+      "reviews": 767,
+      "price_level": "$30–50",
+      "address": "410 Vision Dr, Cumming, GA 30040",
+      "types": "Restaurant",
+      "source": "serpapi_google_maps",
+      "url": "https://www.facebook.com/santamariaatl"
+    },
+    {
+      "name": "Los Rios Cantina",
+      "lat": 34.2177305,
+      "lon": -84.1459259,
+      "rating": 4.8,
+      "reviews": 472,
+      "price_level": "$10–20",
+      "address": "440 Vision Dr STE C001, Cumming, GA 30040",
+      "types": "Mexican restaurant",
+      "source": "serpapi_google_maps",
+      "url": "https://www.losrios-cantina.com/"
+    },
+    {
+      "name": "Homestead",
+      "lat": 34.2170655,
+      "lon": -84.1461563,
+      "rating": 4.3,
+      "reviews": 367,
+      "price_level": "$20–30",
+      "address": "420 Vision Dr Suite 101, Cumming, GA 30040",
+      "types": "Restaurant",
+      "source": "serpapi_google_maps",
+      "url": "http://homesteadga.com/"
+    },
+    {
+      "name": "Meadow Woodfire Grill",
+      "lat": 34.2009677,
+      "lon": -84.1354995,
+      "rating": 4.9,
+      "reviews": 420,
+      "price_level": "$50–100",
+      "address": "101 Meadow Dr Suite K, Cumming, GA 30040",
+      "types": "Steak house",
+      "source": "serpapi_google_maps",
+      "url": "https://www.meadowgrill.com/"
+    },
+    {
+      "name": "Washington's Wharf",
+      "lat": 34.2177048,
+      "lon": -84.1453885,
+      "rating": 4.8,
+      "reviews": 56,
+      "price_level": "$10–20",
+      "address": "451 Vision Dr H101, Cumming, GA 30040",
+      "types": "Restaurant",
+      "source": "serpapi_google_maps",
+      "url": "https://washingtonswharf.com/"
+    },
+    {
+      "name": "Susie Q's Restaurant",
+      "lat": 34.205027,
+      "lon": -84.1370294,
+      "rating": 4.7,
+      "reviews": 45,
+      "price_level": "$10–20",
+      "address": "212 Atlanta Rd, Cumming, GA 30040",
+      "types": "Restaurant",
+      "source": "serpapi_google_maps",
+      "url": ""
+    },
+    {
+      "name": "Tam's BackStage",
+      "lat": 34.2081833,
+      "lon": -84.1366111,
+      "rating": 4.6,
+      "reviews": 958,
+      "price_level": "$20–30",
+      "address": "215 Ingram Ave, Cumming, GA 30040",
+      "types": "American restaurant",
+      "source": "serpapi_google_maps",
+      "url": "http://www.tamsbackstage.com/"
+    },
+    {
+      "name": "Los Compadres Restaurant",
+      "lat": 34.208882599999995,
+      "lon": -84.13976219999999,
+      "rating": 4.8,
+      "reviews": 305,
+      "price_level": "$10–20",
+      "address": "125 Tribble Gap Rd 101 - 102, Cumming, GA 30040",
+      "types": "Mexican restaurant",
+      "source": "serpapi_google_maps",
+      "url": "http://www.loscompadresrestaurantga.com/"
+    },
+    {
+      "name": "Dominic’s Wood Fired Cumming",
+      "lat": 34.2164143,
+      "lon": -84.14606979999999,
+      "rating": 4.9,
+      "reviews": 50,
+      "price_level": "$10–20",
+      "address": "Located Behind Crooked Culture Brewing, 421 Vision Dr, Cumming, GA 30040",
+      "types": "Restaurant",
+      "source": "serpapi_google_maps",
+      "url": "https://dominicswoodfired.com/"
+    },
+    {
+      "name": "SliceAbility",
+      "lat": 34.2171709,
+      "lon": -84.1460118,
+      "rating": 4.7,
+      "reviews": 170,
+      "price_level": "$10–20",
+      "address": "420 Vision Dr Suite 102, Cumming, GA 30040",
+      "types": "Pizza restaurant",
+      "source": "serpapi_google_maps",
+      "url": "http://www.sliceability.com/"
+    },
+    {
+      "name": "Taqueria El Oasis",
+      "lat": 34.217224099999996,
+      "lon": -84.1489639,
+      "rating": 4.7,
+      "reviews": 80,
+      "price_level": "$10–20",
+      "address": "433 Canton Rd #101, Cumming, GA 30040",
+      "types": "Restaurant",
+      "source": "serpapi_google_maps",
+      "url": "https://www.taquerialaperla.online/"
+    },
+    {
+      "name": "3+3 Lanzhou Ramen (Grand opening)",
+      "lat": 34.193591,
+      "lon": -84.1281972,
+      "rating": 4.7,
+      "reviews": 121,
+      "price_level": "$10–20",
+      "address": "2215 Market Pl Blvd, Cumming, GA 30041",
+      "types": "Restaurant",
+      "source": "serpapi_google_maps",
+      "url": "https://order.mealkeyway.com/customer/release/index?mid=4538436a656655524234624649506a6d6b332f395a513d3d#/main"
+    },
+    {
+      "name": "Station House of Cumming",
+      "lat": 34.1958631,
+      "lon": -84.13452629999999,
+      "rating": 4.3,
+      "reviews": 571,
+      "price_level": "$10–20",
+      "address": "540 Lake Center Pkwy 105 Suite 105, Cumming, GA 30040",
+      "types": "American restaurant",
+      "source": "serpapi_google_maps",
+      "url": "https://thestationhouseofcumming.com/"
+    },
+    {
+      "name": "Summits Wayside Tavern",
+      "lat": 34.194891999999996,
+      "lon": -84.1352634,
+      "rating": 4.3,
+      "reviews": 720,
+      "price_level": "$10–20",
+      "address": "525 Lake Center Pkwy, Cumming, GA 30040",
+      "types": "Bar & grill",
+      "source": "serpapi_google_maps",
+      "url": "http://www.summits-online.com/"
+    },
+    {
+      "name": "Sawnee Mountain Biscuit Co.",
+      "lat": 34.2201642,
+      "lon": -84.1380925,
+      "rating": 4.7,
+      "reviews": 418,
+      "price_level": "$1–10",
+      "address": "104 13th St, Cumming, GA 30040",
+      "types": "Breakfast restaurant",
+      "source": "serpapi_google_maps",
+      "url": "https://www.sawneemtnbiscuitco.com/"
+    },
+    {
+      "name": "Tin Cup Grill",
+      "lat": 34.2180281,
+      "lon": -84.1457985,
+      "rating": 4.4,
+      "reviews": 1126,
+      "price_level": "$20–30",
+      "address": "450 Vision Dr, Cumming, GA 30040",
+      "types": "Restaurant",
+      "source": "serpapi_google_maps",
+      "url": "https://www.tincupgrill.com/"
+    },
+    {
+      "name": "The Well GA",
+      "lat": 34.217149299999996,
+      "lon": -84.1461106,
+      "rating": 4.1,
+      "reviews": 180,
+      "price_level": "$10–20",
+      "address": "420 Vision Dr Suite A101, Cumming, GA 30041",
+      "types": "Sports bar",
+      "source": "serpapi_google_maps",
+      "url": "https://www.thewellga.com/"
+    }
+  ],
+  "route": {},
+  "generated_at": "2025-08-15T15:17:03.811900Z"
+}
