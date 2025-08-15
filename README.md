@@ -3,8 +3,13 @@
 **RouteForge** is an *AI trip-planning* agent that turns free-form requests into **routable plans**.  
 It balances **minimum cost** and **maximum fun**, and it’s tailored for real travel moments when users need **specific stops** on the way (e.g., coffee, restroom, or any explicit request).
 
+[routeforge](https://routeforge.streamlit.app/)
+
 ### [RouteForge Interface]
 ![Upload Interface](interface/ui.png)
+
+### [Generated Result]
+![Upload Interface](interface/map.png)
 
 ---
 
@@ -25,6 +30,8 @@ It balances **minimum cost** and **maximum fun**, and it’s tailored for real t
 - **Transparent outputs**  
   - `Itinerary.md` — human-readable trip plan.  
   - `trip_plan.json` — full data trail: inputs, sources, coordinates, route order, distances, durations, and costs.
+
+### Command Line Interface (Colab Notebook)
 
 #### User Input
 ![user_input](interface/input.png)
